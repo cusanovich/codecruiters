@@ -1,4 +1,4 @@
-![Codecruiters](https://raw.github.com/cusanovich/codecruiters/filling--in-layout/app/assets/images/codecruiters.png)
+![Codecruiters](https://raw.github.com/cusanovich/codecruiters/filling--in-layout/app/assets/images/codecruiters2_small.png)
 
 # Codecruiters
 
